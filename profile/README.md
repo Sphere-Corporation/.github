@@ -1,8 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-![Sphere-1 Corporation][sphere-corporation-logo]
-
+![Sphere-1 Corporation](./sphere-corporation.png)
 
   <p align="center">
     A 21st Century recreation of the Sphere-1 CPU/2 Module
@@ -23,17 +22,19 @@ The main issue is that the documentation is sparse, with the computers even spar
 This is the story of how I got on, my trials and tribulations and (hopefully) in time, the results of my labours.
 
 
-<!-- ROADMAP 
+<!-- ROADMAP -->
+
 ## Roadmap
 
-- [x] Add Changelog
-- [x] Add back to top links
-- [ ] Add Additional Templates w/ Examples
-- [ ] Add "components" document to easily copy & paste sections of the readme
-- [ ] Multi-language Support
-    - [ ] Chinese
-    - [ ] Spanish
--->
+- [x] Create Organisation
+- [ ] Add all repositories 
+- [ ] Create git submodules
+- [ ] Create instructions to download
+- [ ] Create discussion boards for
+    - [ ] CPU/2
+    - [ ] ORB
+    - [ ] ARC
+    - [ ] Miscellaneous
 
 <!-- CONTRIBUTING -->
 
