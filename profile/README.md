@@ -28,8 +28,8 @@ This is the story of how I got on, my trials and tribulations and (hopefully) in
 
 
 - [x] Create Organisation
-- [ ] Add all repositories 
-- [ ] Create git submodules
+- [x] Add all repositories 
+- [x] Create git submodules
 - [ ] Create instructions to download
 - [ ] Create discussion boards for
     - [ ] CPU/2
