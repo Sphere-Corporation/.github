@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-![Sphere-1 Corporation](sphere-corporation.png)
+![Sphere-1 Corporation](./profile/sphere-corporation.png)
 
   <p align="center">
     A 21st Century recreation of the Sphere-1 CPU/2 Module
