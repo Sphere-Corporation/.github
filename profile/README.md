@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 
-![Sphere-1 Corporation](./profile/sphere-corporation.png)
+![Sphere-1 Corporation](./sphere-corporation.png)
 
   <p align="center">
     A 21st Century recreation of the Sphere-1 CPU/2 Module
@@ -22,7 +22,8 @@ The main issue is that the documentation is sparse, with the computers even spar
 This is the story of how I got on, my trials and tribulations and (hopefully) in time, the results of my labours.
 
 
-This initiative is organised as a series of `git` repositories, along with an umbrella project which should be [your starting point](https://github.com/Sphere-Corporation/Sphere-1). 
+This initiative is organised as a series of `git` repositories organised under an umbrella organisation of Sphere
+-Computer.
 
 ## Contributing
 
